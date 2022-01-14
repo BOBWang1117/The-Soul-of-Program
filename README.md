@@ -55,11 +55,13 @@
 
 ## **Example:**
 
-1. ![picture1](./picture/1.png)
+1. 
+![picture1](./picture/1.png)
 
    
 
-2. ![picture1](./picture/2.png)
+2. 
+![picture1](./picture/2.png)
 
    
 
